@@ -15,12 +15,18 @@
     margin: 0 16px;
     padding: 24px 0;
     font-size: 24px;
-
 }
 .soccer{
     width: 25%;
-    
 }
 .escola{
-background-image: linear-gradient(#000000,#04BF8A)
+background-image: linear-gradient(#000000,#bf2004);
+color:white;
+display:flex;
+}
+.escola-conteudo{
+    width: 35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
