@@ -30,11 +30,14 @@ display:flex;
 }
 .escola-conteudo{
     width: 35%;
-    display: flex;
+    display: block;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
 }
 .escola-titulo{
     padding: 24px 0;
+}
+.estudante-imagem{
+    width: 120px;
 }
